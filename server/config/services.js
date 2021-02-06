@@ -2,7 +2,7 @@ module.exports = {
   service1: {
     api: '/rooms/:propertyId/booking',
     cal: '/rooms/:propertyId/booking/calendar',
-    url: 'http://54.201.229.11',
+    url: 'http://ec2-3-12-85-73.us-east-2.compute.amazonaws.com:3001',
     bundle: 'bundle.js',
   },
   service2: {
